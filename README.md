@@ -20,12 +20,9 @@ Created a deep learning model to classify food items from images and estimate th
 Dataset: Food-101 – Kaggle
 
 🔧 Technologies Used:
+
 Python (NumPy, pandas, scikit-learn, matplotlib, seaborn, TensorFlow/Keras)
-
 Jupyter Notebook
-
 OpenCV / PIL (for image processing)
-
 Kaggle Datasets
-
 CNNs for image classification
