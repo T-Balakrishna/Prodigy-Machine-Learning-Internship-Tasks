@@ -22,7 +22,7 @@ Dataset: https://www.kaggle.com/competitions/dogs-vs-cats
 Task 04: Food Image Classification and Calorie Estimation
 Created a deep learning model to classify food items from images and estimate their calorie content to help users monitor their diet.
 
-Dataset: 
+Dataset: https://www.kaggle.com/datasets/nutritionverse/nutritionverse-real
 
 🔧 Technologies Used:
 
